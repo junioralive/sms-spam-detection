@@ -1,6 +1,6 @@
 # SMS Spam Detection
 
-[Collab link](https://colab.research.google.com/drive/11890600784772548338?usp=sharing)
+## [Collab link](https://colab.research.google.com/drive/1dsdlAVRGh7OeJA4Z0wHlRvEcWMKDkr5C?usp=sharing)
 
 ## Overview
 
