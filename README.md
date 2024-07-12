@@ -1,8 +1,8 @@
-# SMS Spam Detection Streamlit App
+# SMS Spam Detection
 
 ## Overview
 
-This Streamlit application leverages multiple machine learning models to accurately classify SMS messages as either spam or ham (non-spam). The application provides an interactive interface for users to input SMS text to receive instant predictions. It also includes a detailed analysis section showcasing the performance metrics of each deployed model.
+This application leverages multiple machine learning models to accurately classify SMS messages as either spam or ham (non-spam). The application provides an interactive interface for users to input SMS text to receive instant predictions. It also includes a detailed analysis section showcasing the performance metrics of each deployed model.
 
 ## Features
 
