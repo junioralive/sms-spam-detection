@@ -1,5 +1,7 @@
 # SMS Spam Detection
 
+[Collab link](https://colab.research.google.com/drive/11890600784772548338?usp=sharing)
+
 ## Overview
 
 This application leverages multiple machine learning models to accurately classify SMS messages as either spam or ham (non-spam). The application provides an interactive interface for users to input SMS text to receive instant predictions. It also includes a detailed analysis section showcasing the performance metrics of each deployed model.
