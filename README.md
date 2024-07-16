@@ -1,6 +1,8 @@
 # SMS Spam Detection
 
-## [Collab link](https://colab.research.google.com/drive/1dsdlAVRGh7OeJA4Z0wHlRvEcWMKDkr5C?usp=sharing)
+## Kaggle
+
+Find my work on kaggle : [Kaggle link][https://www.kaggle.com/code/junioralive/top-10-algorithms-ham-or-spam-classifiers]
 
 ## Overview
 
