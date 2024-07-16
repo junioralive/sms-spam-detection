@@ -2,7 +2,7 @@
 
 ## Kaggle
 
-Find my work on kaggle : [Kaggle link][https://www.kaggle.com/code/junioralive/top-10-algorithms-ham-or-spam-classifiers]
+Find my work on kaggle : [Kaggle link](https://www.kaggle.com/code/junioralive/top-10-algorithms-ham-or-spam-classifiers)
 
 ## Overview
 
